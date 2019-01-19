@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="357c4606-e56b-4ad7-9af9-5d6d89f93436" name="Default Changelist" comment="" />
+    <list default="true" id="357c4606-e56b-4ad7-9af9-5d6d89f93436" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/twh/gc/LifetimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/twh/gc/SafepointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
+            <state relative-caret-position="378">
               <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -36,17 +36,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="675">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/twh/gc/SafepointTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV5.java">
+        <entry file="file://$PROJECT_DIR$/src/com/twh/gc/LifetimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+            <state relative-caret-position="534">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -54,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="297">
               <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
@@ -63,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/Reflection.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
+            <state relative-caret-position="621">
               <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
             </state>
           </provider>
@@ -72,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Modifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="1107">
               <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
               <folding>
                 <element signature="e#1632#1633#0" expanded="true" />
@@ -85,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/AccessibleObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="3726">
               <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
             </state>
           </provider>
@@ -100,6 +118,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -110,6 +131,9 @@
         <option value="$PROJECT_DIR$/src/com/twh/reflect/TestV3.java" />
         <option value="$PROJECT_DIR$/src/com/twh/reflect/TestV4.java" />
         <option value="$PROJECT_DIR$/src/com/twh/reflect/TestV5.java" />
+        <option value="$PROJECT_DIR$/src/gc/SafepointTest.java" />
+        <option value="$PROJECT_DIR$/src/com/twh/gc/SafepointTest.java" />
+        <option value="$PROJECT_DIR$/src/com/twh/gc/LifetimeTest.java" />
       </list>
     </option>
   </component>
@@ -121,11 +145,11 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,12 +166,28 @@
               <item name="jvm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="jvm-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jvm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jvm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="twh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jvm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jvm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="twh" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,13 +207,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestV5">
-    <configuration name="TestV0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.twh.reflect.TestV0" />
+  <component name="RunManager" selected="Application.LifetimeTest">
+    <configuration name="LifetimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twh.gc.LifetimeTest" />
       <module name="jvm-study" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGC -Xmn100M -XX:PretenureSizeThreshold=10000" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.twh.reflect.*" />
+          <option name="PATTERN" value="com.twh.gc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,13 +222,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.twh.reflect.TestV1" />
+    <configuration name="SafepointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twh.gc.SafepointTest" />
       <module name="jvm-study" />
-      <option name="VM_PARAMETERS" value="-verbose:class" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGC -XX:+PrintGCApplicationStoppedTime -XX:+PrintSafepointStatistics -XX:+UseCountedLoopSafepoints" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.twh.reflect.*" />
+          <option name="PATTERN" value="com.twh.gc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +294,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestV4" />
-      <item itemvalue="Application.TestV0" />
-      <item itemvalue="Application.TestV1" />
       <item itemvalue="Application.TestV2" />
       <item itemvalue="Application.TestV3" />
       <item itemvalue="Application.TestV5" />
+      <item itemvalue="Application.SafepointTest" />
+      <item itemvalue="Application.LifetimeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LifetimeTest" />
+        <item itemvalue="Application.SafepointTest" />
         <item itemvalue="Application.TestV5" />
         <item itemvalue="Application.TestV2" />
         <item itemvalue="Application.TestV3" />
-        <item itemvalue="Application.TestV1" />
-        <item itemvalue="Application.TestV0" />
       </list>
     </recent_temporary>
   </component>
@@ -280,80 +321,51 @@
       <option name="presentableId" value="Default" />
       <updated>1547384558994</updated>
       <workItem from="1547384560560" duration="2800000" />
+      <workItem from="1547876156366" duration="2207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2800000" />
+    <option name="totallyTimeSpent" value="5007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="JRebel" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18531469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18731269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32930514" />
-      <window_info anchor="bottom" id="JRebel Executor" />
-      <window_info anchor="bottom" id="Terminal" weight="0.63343406" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32729104" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35685483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.63343406" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32930514" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/AccessibleObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Modifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
-          <folding>
-            <element signature="e#1632#1633#0" expanded="true" />
-            <element signature="e#1674#1675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/Reflection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/twh/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twh/Main.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -381,40 +393,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
+        <state relative-caret-position="378">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="675">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/Reflection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Modifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding>
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3726">
+          <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twh/reflect/TestV5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        <state relative-caret-position="27">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twh/gc/SafepointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twh/gc/LifetimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
